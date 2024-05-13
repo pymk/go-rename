@@ -1,3 +1,10 @@
+// TODO:
+// - add renaming function
+// - dryrun mode
+// - optional recursiveness
+// - organize code
+// - add tests
+
 package main
 
 import (
