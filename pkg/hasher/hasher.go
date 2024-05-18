@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 )
 
-func makeSha(name string) string {
+func MakeSha(name string) string {
 	// SHA1 hash
 	h := sha1.New()
 	h.Write([]byte(name))
