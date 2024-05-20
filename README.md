@@ -16,7 +16,7 @@ go run . /path/to/your/image/directory
 ## Example
 
 ```
-> go-rename go run . ~/Pictures/Wallpapers
+> go-rename ~/Pictures/Wallpapers
 
 Original      New
 -----------   -----------
